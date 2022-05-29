@@ -71,5 +71,4 @@ navbar_links:
 
 # Links at the bottom of the page.
 footer_links:
-    icon: fab fa-github
-    url: https://github.com/Crushdada
+  GitHub: https://github.com/Crushdada
