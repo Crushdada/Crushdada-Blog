@@ -30,6 +30,8 @@ article:
 # Navigation bar menu links.
 menu:
   Archives: /archives
+  Tags: /tags
+  Categories: /categories
   #Lifestyle: /categories/LifeStyle
   # Music: /categories/Music
   #Technology: /categories/Technology
