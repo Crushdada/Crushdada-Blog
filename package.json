@@ -27,6 +27,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3",
     "lodash": "^4.17.21",
-    "node-sass": "6.0.1"
+    "node-sass": "9.0.0"
   }
 }
